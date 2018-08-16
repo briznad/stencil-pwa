@@ -23,11 +23,11 @@ self.addEventListener('push', (event) => {
 self.workbox.precaching.precacheAndRoute([
   {
     "url": "assets/icon/favicon.ico",
-    "revision": "d2f619d796fbe8bed6200da2691aa5b6"
+    "revision": "e78b36acb5726a2d1fe2cbf2d733854a"
   },
   {
     "url": "assets/icon/icon.png",
-    "revision": "b96ad6e1e0b755c8cd45e6aec40bca25"
+    "revision": "84a84947a36d8c6d0c75199e5b034516"
   },
   {
     "url": "build/app.css",
@@ -35,7 +35,7 @@ self.workbox.precaching.precacheAndRoute([
   },
   {
     "url": "build/app.js",
-    "revision": "74160ea50f121d69449e4bd53d90291d"
+    "revision": "7b6850650aeb2ff8b53f9397f3df6876"
   },
   {
     "url": "build/app/app-home.js",
@@ -2967,7 +2967,7 @@ self.workbox.precaching.precacheAndRoute([
   },
   {
     "url": "index.html",
-    "revision": "0908ae6e7e0977c4c8d9d3fdbfeba778"
+    "revision": "8753ba81f7a7ad459e7838ed896aa81a"
   },
   {
     "url": "manifest.json",

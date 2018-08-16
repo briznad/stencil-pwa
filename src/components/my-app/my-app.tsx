@@ -37,6 +37,7 @@ export class MyApp {
           <ion-route url="/" component="app-home" />
           <ion-route url="/profile/:name" component="app-profile" />
         </ion-router>
+
         <ion-nav />
       </ion-app>
     );
