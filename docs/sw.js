@@ -35,7 +35,7 @@ self.workbox.precaching.precacheAndRoute([
   },
   {
     "url": "build/app.js",
-    "revision": "aee432539b74ae0b6157de537015f4ec"
+    "revision": "74160ea50f121d69449e4bd53d90291d"
   },
   {
     "url": "build/app/app-home.js",
@@ -2967,7 +2967,7 @@ self.workbox.precaching.precacheAndRoute([
   },
   {
     "url": "index.html",
-    "revision": "39de1ada76f3a18022c4a8fddf6ce8d4"
+    "revision": "0908ae6e7e0977c4c8d9d3fdbfeba778"
   },
   {
     "url": "manifest.json",
